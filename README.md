@@ -1,4 +1,4 @@
-### Olá! Me chamo João Victor Mendes, sou Desenvolvedor Front-end Júnior 
+### Olá! Me chamo João Victor Mendes, sou Desenvolvedor Front-end Júnior.
 
 
 
